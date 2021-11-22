@@ -6,4 +6,4 @@ def power(n,m):
     for i in range(m):
         ans = ans*m
      
-     return ans
+    return ans
